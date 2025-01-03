@@ -1,0 +1,54 @@
+.education-experience-section {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .section-heading {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+  }
+  
+  .purple {
+    color: #6a1b9a;
+  }
+  
+  .timeline {
+    position: relative;
+    margin-top: 20px;
+  }
+  
+  .timeline-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    position: relative;
+    padding-left: 50px;
+  }
+  
+  .timeline-item[data-aos=\"fade-right\"] {
+    flex-direction: row-reverse;
+    text-align: right;
+  }
+  
+  .timeline-icon {
+    background: #6a1b9a;
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 1.5rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .timeline-content {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .timeline-content:hover {
+    transform: translateY(-5px);
+  }
+  
