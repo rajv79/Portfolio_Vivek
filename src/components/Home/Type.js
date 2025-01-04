@@ -15,8 +15,9 @@ function Type() {
           ],
           autoStart: true,
           loop: true,
-          deleteSpeed: 20,
-          delay: 75, // Typing speed
+          deleteSpeed: 10, // Faster deletion
+          delay: 50, // Faster typing
+          pauseFor: 800, // Shorter pause between strings
           cursor: "|", // Custom cursor
         }}
       />
