@@ -39,7 +39,12 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand
+          href="https://rajv79.github.io/Portfolio_Vivek"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="d-flex"
+        >
           <img src={logo} className="img-fluid logo" alt="brand" />
         </Navbar.Brand>
         <Navbar.Toggle
@@ -107,8 +112,6 @@ function NavBar() {
                 <GiTrophyCup style={{ marginBottom: "2px" }} /> Honors & Awards
               </Nav.Link>
             </Nav.Item>
-
-           
 
             {/* Resume */}
             <Nav.Item>
