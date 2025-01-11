@@ -27,7 +27,7 @@ function Home2() {
                 I have a strong foundation in programming languages like <i><b className="purple">Python, C++, and Java</b></i>, and I've applied these skills to projects in <i><b className="purple">Machine Learning, Deep Learning,</b></i> and <b className="purple">Neural Networks</b>.
                 <br />
                 <br />
-                A highlight of my journey was winning the <b className="purple">HackBU 2024 Hackathon for Best Technology</b>, where I developed a real-time gesture recognition system. This experience fueled my love for innovation.
+                A highlight of my journey was winning the <b className="purple">HackBU 2024 Hackathon for Best Technology</b>, where I developed a real-time gesture recognition system. My enthusiasm for creativity was sparked by this opportunity.
                 <br />
                 <br />
                 I’m eager to collaborate on exciting projects and continuously learn. Let’s connect and create something amazing together!

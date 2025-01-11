@@ -17,6 +17,8 @@ import NL1 from "../../Assets/Projects/NL1.png"
 import LLM_images from "../../Assets/Projects/LLM_images.png"
 import AM2 from "../../Assets/Projects/AM2.png"
 import LLM2 from "../../Assets/Projects/LLM2.png"
+import my_port from "../../Assets/Projects/my_port.png"
+
 
 
 
@@ -73,7 +75,7 @@ Written in Python, the program utilizes powerful libraries such as scikit-learn,
               isBlog={false}
               title="NeoVision"
               description="NeoVision is a cutting-edge Android application combining real-time handwriting recognition, object detection, and multilingual text processing. Using PaddleOCR, YOLO, and Google API, it identifies handwritten and printed text in multiple languages while detecting objects like packages, signs, or labels. With seamless integration of OpenCV for preprocessing and live confidence score displays, NeoVision delivers fast and accurate results for tasks like note-taking, document digitization, and accessibility tools, making it a versatile and powerful AI-driven solution."
-              ghLink="https://github.com/rajv79"
+              ghLink="https://github.com/rajv79/NeoVision"
              // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
@@ -128,11 +130,11 @@ Written in Python, the program utilizes powerful libraries such as scikit-learn,
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={LLM_images}
+              imgPath={my_port}
               isBlog={false}
-              title="Code generation"
-              description="Explore generating code snippets based on natural language descriptions using a transformer model specifically designed for code"
-              ghLink="https://github.com/rajv79"
+              title="My Portfolio"
+              description="Welcome to my portfolio! Explore my projects and skills in software development, AI, and design, showcasing innovative solutions and impactful work"
+              ghLink="https://github.com/rajv79/Portfolio_Vivek"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>

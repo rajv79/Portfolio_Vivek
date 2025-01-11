@@ -9,12 +9,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hello! I'm <span className="purple">Vivek Raj</span>, a passionate technologist and innovator staying in <span className="purple">New York State, USA</span>.
+            Hello! I'm <span className="purple">Vivek Raj</span>, a passionate technologist and innovator in <span className="purple">New York State, USA</span>.
           </p>
           
-          <p style={{ textAlign: "justify" }}>
-            Currently, I'm on an exciting journey pursuing my <span className="purple">Master of Science in Computer Science</span>, with a laser focus on the cutting-edge <span className="purple">Artificial Intelligence (AI) Track</span> at <span className="purple">Binghamton University, NY</span>. My academic pursuits are driven by an insatiable curiosity and a desire to push the boundaries of what's possible in the realm of technology.
-          </p>
+          <p style={{ textAlign: "justify" }}> I’m currently working toward my Master of Science in Computer Science, specializing in the Artificial Intelligence (AI) track at Binghamton University, NY. I’m passionate about exploring innovative ideas and challenging the limits of technology, driven by a deep curiosity and a commitment to learning. </p>
 
           <p style={{ textAlign: "justify" }}>
             Through my studies, I've developed a deep expertise in <span className="purple">Artificial Intelligence</span>, with a curriculum that emphasizes cutting-edge technologies and practical problem-solving. My technical arsenal includes <span className="purple">Python, C++, and Java</span>, complemented by tools like <span className="purple">TensorFlow, YOLO, Paddle OCR, Git</span>, and cloud platforms such as <span className="purple">AWS</span>.
@@ -35,9 +33,9 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ textAlign: "justify" }}>
+          {/* <p style={{ textAlign: "justify" }}>
             These experiences have equipped me with a solid foundation in <span className="purple">AI development, software engineering, and systems design</span>. I'm enthusiastic about contributing to roles at the intersection of AI, machine learning, and software development, driven by a passion for innovation and tackling complex challenges.
-          </p>
+          </p> */}
 
           <p style={{ textAlign: "justify" }}>
             My fascination with technology stems from its power to bring about meaningful change. This passion has led me to dive deep into various areas of computer science, including:

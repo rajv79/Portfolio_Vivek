@@ -10,13 +10,14 @@ import MCL1 from "../../Assets/MCL1.jpg";
 import NSF1 from "../../Assets/NSF_1.png";
 import phk1 from "../../Assets/phk1.png";
 import ycw from "../../Assets/ycw.png";
+import ptk2 from "../../Assets/ptk2.png";
 
 function HonorsAwards() {
   return (
     <Container fluid className="about-section">
       <Particle />
       <Container className="honors-awards-section">
-        <h1 className="project-heading">
+        <h1 className="project-heading text-center">
           <strong className="purple">Honors & Awards</strong>
         </h1>
         <div className="timeline">
@@ -30,7 +31,8 @@ function HonorsAwards() {
                 </div>
               </Col>
               <Col md={10}>
-                <h3 className="timeline-title">Bachelor's Degree in Computer Science</h3>
+                <h3 className="timeline-title text-center">Bachelor's Degree in Computer Science</h3>
+                <p className="text-center">Magna Cum Laude</p>
                 <p>Graduated Magna Cum Laude, recognized for academic excellence and exceptional performance in the field of Computer Science.</p>
               </Col>
             </Row>
@@ -47,9 +49,9 @@ function HonorsAwards() {
                 </div>
               </Col>
               <Col md={10}>
-                <h3 className="timeline-title">Dean's List</h3>
-                <p><strong>Binghamton University</strong></p>
-                <p>Earned Dean's List status for achieving a high GPA of more than 3.5 throughout the academic year.</p>
+                <h3 className="timeline-title text-center">Dean's List</h3>
+                <p className="text-center"><strong>Binghamton University</strong></p>
+                <p>Earned Dean's List status for achieving a high GPA of more than 3.7 throughout the academic year.</p>
               </Col>
             </Row>
             <hr className="timeline-divider" />
@@ -60,12 +62,12 @@ function HonorsAwards() {
             <Row>
               <Col md={2} className="award-image-wrapper">
                 <div style={{ position: "relative" }}>
-                  <img src={phk1} alt="Phi Theta Kappa Scholarship" className="award-image" />
+                  <img src={ptk2} alt="Phi Theta Kappa Scholarship" className="award-image" />
                   <FaAward style={{ position: "absolute", top: "10px", left: "10px", zIndex: 1, fontSize: "24px", color: "gold" }} />
                 </div>
               </Col>
               <Col md={10}>
-                <h3 className="timeline-title">Phi Theta Kappa Scholarship</h3>
+                <h3 className="timeline-title text-center">Phi Theta Kappa Scholarship</h3>
                 <p>Selected as a recipient for a scholarship as a result of excelling in all math courses.</p>
               </Col>
             </Row>
@@ -82,8 +84,8 @@ function HonorsAwards() {
                 </div>
               </Col>
               <Col md={10}>
-                <h3 className="timeline-title">NSF – STEM Scholarship</h3>
-                <p>Awarded for achieving a cumulative GPA of 3.5 and above, supported by the National Science Foundation.</p>
+                <h3 className="timeline-title text-center">NSF – STEM Scholarship</h3>
+                <p>Awarded for achieving a cumulative GPA of 3.8 and above, supported by the National Science Foundation.</p>
               </Col>
             </Row>
             <hr className="timeline-divider" />
@@ -99,7 +101,8 @@ function HonorsAwards() {
                 </div>
               </Col>
               <Col md={10}>
-                <h3 className="timeline-title">Winner - Best Technical Hack</h3>
+                <h3 className="timeline-title text-center">Winner - Best Technical Hack</h3>
+                <p className="text-center">HackBU</p>
                 <p>Recognized for outstanding performance at HackBU, winning the award for the best technical hack.</p>
               </Col>
             </Row>
@@ -116,8 +119,9 @@ function HonorsAwards() {
                 </div>
               </Col>
               <Col md={10}>
-                <h3 className="timeline-title">Second Place - QubitX Hacks</h3>
-                <p>Secured second place at the prestigious QubitX Hacks, hosted by YCW.</p>
+                <h3 className="timeline-title text-center">Second Place -- QubitX Hacks</h3>
+                <p className="text-center">YCW</p>
+                <p className="text-center">      Secured second place at the prestigious QubitX Hacks, hosted by YCW.</p>
               </Col>
             </Row>
             <hr className="timeline-divider" />
