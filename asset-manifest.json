@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio_Vivek/static/css/main.43a60054.css",
-    "main.js": "/Portfolio_Vivek/static/js/main.5e553778.js",
+    "main.css": "/Portfolio_Vivek/static/css/main.e51a8bb1.css",
+    "main.js": "/Portfolio_Vivek/static/js/main.e3b96423.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio_Vivek/static/js/787.1ed0c42c.chunk.js",
     "static/media/Moana2.png": "/Portfolio_Vivek/static/media/Moana2.5af1e827b24f0c91a751.png",
     "static/media/MM1.png": "/Portfolio_Vivek/static/media/MM1.9a68fb87a1e6e493c52d.png",
@@ -13,6 +13,7 @@
     "static/media/emotion.png": "/Portfolio_Vivek/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/Portfolio_Vivek/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/MCL1.jpg": "/Portfolio_Vivek/static/media/MCL1.fa529aab2c3dc3e99697.jpg",
+    "static/media/my_port.png": "/Portfolio_Vivek/static/media/my_port.8e6384889b133cfb5c43.png",
     "static/media/BU1.png": "/Portfolio_Vivek/static/media/BU1.a2c88e5727fd99bfdf87.png",
     "static/media/AM.png": "/Portfolio_Vivek/static/media/AM.63e37a16c9c075cbb922.png",
     "static/media/codeEditor.png": "/Portfolio_Vivek/static/media/codeEditor.1b585492490c8c1cace9.png",
@@ -24,6 +25,7 @@
     "static/media/Master_VIVEK_RESUME_M.pdf": "/Portfolio_Vivek/static/media/Master_VIVEK_RESUME_M.3cdf7671ebce8b1a24c5.pdf",
     "static/media/phk1.png": "/Portfolio_Vivek/static/media/phk1.bfc558d7431ed548570b.png",
     "static/media/chatify.png": "/Portfolio_Vivek/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/ptk2.png": "/Portfolio_Vivek/static/media/ptk2.0d2d5cb3083def028881.png",
     "static/media/home-bg.jpg": "/Portfolio_Vivek/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/MR2.png": "/Portfolio_Vivek/static/media/MR2.5c66cac9f2cd5b0464ed.png",
     "static/media/STM1.png": "/Portfolio_Vivek/static/media/STM1.e92de5189b3063cdc3e8.png",
@@ -32,12 +34,12 @@
     "static/media/avatar.svg": "/Portfolio_Vivek/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "index.html": "/Portfolio_Vivek/index.html",
     "static/media/pre.svg": "/Portfolio_Vivek/static/media/pre.4410c5baaa673cc131da.svg",
-    "main.43a60054.css.map": "/Portfolio_Vivek/static/css/main.43a60054.css.map",
-    "main.5e553778.js.map": "/Portfolio_Vivek/static/js/main.5e553778.js.map",
+    "main.e51a8bb1.css.map": "/Portfolio_Vivek/static/css/main.e51a8bb1.css.map",
+    "main.e3b96423.js.map": "/Portfolio_Vivek/static/js/main.e3b96423.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio_Vivek/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43a60054.css",
-    "static/js/main.5e553778.js"
+    "static/css/main.e51a8bb1.css",
+    "static/js/main.e3b96423.js"
   ]
 }
