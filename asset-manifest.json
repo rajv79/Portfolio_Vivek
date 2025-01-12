@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio_Vivek/static/css/main.e51a8bb1.css",
-    "main.js": "/Portfolio_Vivek/static/js/main.c935a166.js",
+    "main.css": "/Portfolio_Vivek/static/css/main.6adad163.css",
+    "main.js": "/Portfolio_Vivek/static/js/main.fed87492.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio_Vivek/static/js/787.1ed0c42c.chunk.js",
     "static/media/Moana2.png": "/Portfolio_Vivek/static/media/Moana2.5af1e827b24f0c91a751.png",
     "static/media/MM1.png": "/Portfolio_Vivek/static/media/MM1.9a68fb87a1e6e493c52d.png",
     "static/media/NL1.png": "/Portfolio_Vivek/static/media/NL1.3e52ee0a2decef49f25a.png",
     "static/media/AM2.png": "/Portfolio_Vivek/static/media/AM2.cd195641574d7c452315.png",
     "static/media/leaf.png": "/Portfolio_Vivek/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/s1.png": "/Portfolio_Vivek/static/media/s1.ba800565075a3f69827e.png",
     "static/media/NSF_1.png": "/Portfolio_Vivek/static/media/NSF_1.dd591b48f51c601c6361.png",
     "static/media/LLM_images.png": "/Portfolio_Vivek/static/media/LLM_images.43036bbb0b460212befa.png",
     "static/media/emotion.png": "/Portfolio_Vivek/static/media/emotion.eabfc16e7a146ab15778.png",
@@ -34,12 +35,12 @@
     "static/media/avatar.svg": "/Portfolio_Vivek/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "index.html": "/Portfolio_Vivek/index.html",
     "static/media/pre.svg": "/Portfolio_Vivek/static/media/pre.4410c5baaa673cc131da.svg",
-    "main.e51a8bb1.css.map": "/Portfolio_Vivek/static/css/main.e51a8bb1.css.map",
-    "main.c935a166.js.map": "/Portfolio_Vivek/static/js/main.c935a166.js.map",
+    "main.6adad163.css.map": "/Portfolio_Vivek/static/css/main.6adad163.css.map",
+    "main.fed87492.js.map": "/Portfolio_Vivek/static/js/main.fed87492.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio_Vivek/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e51a8bb1.css",
-    "static/js/main.c935a166.js"
+    "static/css/main.6adad163.css",
+    "static/js/main.fed87492.js"
   ]
 }
