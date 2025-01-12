@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
+import myImg1 from "../../Assets/s1.png";
 import Tilt from "react-parallax-tilt";
 
 import {
@@ -33,15 +34,39 @@ function Home2() {
                 I’m eager to collaborate on exciting projects and continuously learn. Let’s connect and create something amazing together!
               </p>
             </Col>
+
             <Col md={4} className="myAvtar">
-              <Tilt>
-                <img
-                  src={myImg}
-                  className="img-fluid floating-image"
-                  alt="avatar"
-                />
-              </Tilt>
-            </Col>
+  <div className="flip-container">
+    <div className="flipper">
+      {/* Front Image */}
+      <div className="front">
+        <Tilt>
+          <img
+            src={myImg1} // Replace with your front image
+            style={{ width: "300px", height: "300px" }}
+            className="img-fluid floating-image"
+            alt="avatar"
+          />
+        </Tilt>
+      </div>
+
+      {/* Back Image */}
+      <div className="back">
+        <Tilt>
+          <img
+            src={myImg} // Replace with your back image
+            style={{ width: "300px", height: "300px" }}
+            className="img-fluid floating-image"
+            alt="avatar-back"
+          />
+        </Tilt>
+      </div>
+    </div>
+  </div>
+</Col>
+
+
+
           </Row>
           <Row>
             <Col md={12} className="home-about-social">
