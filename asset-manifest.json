@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio_Vivek/static/css/main.6adad163.css",
+    "main.css": "/Portfolio_Vivek/static/css/main.ffbe4e8c.css",
     "main.js": "/Portfolio_Vivek/static/js/main.fed87492.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio_Vivek/static/js/787.1ed0c42c.chunk.js",
     "static/media/Moana2.png": "/Portfolio_Vivek/static/media/Moana2.5af1e827b24f0c91a751.png",
@@ -35,12 +35,12 @@
     "static/media/avatar.svg": "/Portfolio_Vivek/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "index.html": "/Portfolio_Vivek/index.html",
     "static/media/pre.svg": "/Portfolio_Vivek/static/media/pre.4410c5baaa673cc131da.svg",
-    "main.6adad163.css.map": "/Portfolio_Vivek/static/css/main.6adad163.css.map",
+    "main.ffbe4e8c.css.map": "/Portfolio_Vivek/static/css/main.ffbe4e8c.css.map",
     "main.fed87492.js.map": "/Portfolio_Vivek/static/js/main.fed87492.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio_Vivek/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6adad163.css",
+    "static/css/main.ffbe4e8c.css",
     "static/js/main.fed87492.js"
   ]
 }
