@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Vivek/static/css/main.ffbe4e8c.css",
-    "main.js": "/Portfolio_Vivek/static/js/main.c4adb892.js",
+    "main.js": "/Portfolio_Vivek/static/js/main.efab362f.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio_Vivek/static/js/787.1ed0c42c.chunk.js",
     "static/media/Moana2.png": "/Portfolio_Vivek/static/media/Moana2.5af1e827b24f0c91a751.png",
     "static/media/MM1.png": "/Portfolio_Vivek/static/media/MM1.9a68fb87a1e6e493c52d.png",
@@ -23,7 +23,7 @@
     "static/media/LLM2.png": "/Portfolio_Vivek/static/media/LLM2.927300e8d6acd5dce3bb.png",
     "static/media/home-main.svg": "/Portfolio_Vivek/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Portfolio_Vivek/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Vivek_Raj_HC_RESUME_V1.pdf": "/Portfolio_Vivek/static/media/Vivek_Raj_HC_RESUME_V1.1cfb0c900589dd896dbe.pdf",
+    "static/media/Master_M_Vivek_Raj_Resume.pdf": "/Portfolio_Vivek/static/media/Master_M_Vivek_Raj_Resume.4a1f93d85bbb5500bc00.pdf",
     "static/media/phk1.png": "/Portfolio_Vivek/static/media/phk1.bfc558d7431ed548570b.png",
     "static/media/chatify.png": "/Portfolio_Vivek/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/ptk2.png": "/Portfolio_Vivek/static/media/ptk2.0d2d5cb3083def028881.png",
@@ -36,11 +36,11 @@
     "index.html": "/Portfolio_Vivek/index.html",
     "static/media/pre.svg": "/Portfolio_Vivek/static/media/pre.4410c5baaa673cc131da.svg",
     "main.ffbe4e8c.css.map": "/Portfolio_Vivek/static/css/main.ffbe4e8c.css.map",
-    "main.c4adb892.js.map": "/Portfolio_Vivek/static/js/main.c4adb892.js.map",
+    "main.efab362f.js.map": "/Portfolio_Vivek/static/js/main.efab362f.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio_Vivek/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffbe4e8c.css",
-    "static/js/main.c4adb892.js"
+    "static/js/main.efab362f.js"
   ]
 }
